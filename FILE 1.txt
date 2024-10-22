@@ -1,2 +1,3 @@
 Voici la première ligne du fichier
 wowwowowoooooo nouvelle ligne
+voici la deuxième ligne du fichier hihi
